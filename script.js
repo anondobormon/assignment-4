@@ -81,13 +81,11 @@ document.getElementById('flying-to').value = flyingToValue;
 // ***********departure date*************
 
     const departure = document.getElementById('departure-tickit').value;
-    console.log(departure);
     document.getElementById('departure-value').innerText = departure;
 
 // ***********return date***********
 
     const returnTKT = document.getElementById('return-tickit').value;
-    console.log(returnTKT);
     document.getElementById('return-value').innerText = returnTKT;
 
 // *********First class***********

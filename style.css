@@ -146,13 +146,14 @@ nav ul li a:hover, a.active{
 }
 .main{
     height: 630px;
-    width: 35%;
+    width: 450px;
     background-color: rgba(10, 78, 204, 0.5);
     /* border: 2px solid #ffffff; */
     border-radius: 10px;
     margin: 20px auto;
     position: relative;
 }
+
 .form{
     margin: 20px;
 }
